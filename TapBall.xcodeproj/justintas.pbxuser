@@ -1,0 +1,185 @@
+// !$*UTF8*$!
+{
+	063AFCCE12E1FBF300DE0BC5 /* TapBall */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TapBall;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	063AFCE312E1FBF900DE0BC5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	063AFCE412E1FBF900DE0BC5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	063AFD3712E231D500DE0BC5 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 063AFCE512E2007600DE0BC5 /* thing.png */;
+	};
+	063AFD3912E231D500DE0BC5 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* TapBall-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarHidden,
+		);
+		name = "/Users/justintas/emirBytes/MyTutorial/TapBall/TapBall-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	063AFD3A12E231D500DE0BC5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* TapBallAppDelegate.m */;
+		name = "TapBallAppDelegate.m: 24";
+		rLen = 0;
+		rLoc = 565;
+		rType = 0;
+		vrLen = 1666;
+		vrLoc = 0;
+	};
+	06756F1012E2C04E00EAE656 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* TapBallViewController.h */;
+		name = "TapBallViewController.h: 22";
+		rLen = 101;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 572;
+		vrLoc = 0;
+	};
+	06756F1812E2C16E00EAE656 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TapBallViewController.m */;
+		name = "TapBallViewController.m: 55";
+		rLen = 0;
+		rLoc = 1146;
+		rType = 0;
+		vrLen = 1006;
+		vrLoc = 141;
+	};
+	06756F1912E2C16E00EAE656 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* TapBallViewController.m */;
+		name = "TapBallViewController.m: 26";
+		rLen = 0;
+		rLoc = 508;
+		rType = 0;
+		vrLen = 1920;
+		vrLoc = 1261;
+	};
+	1D3623250D0F684500981E51 /* TapBallAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1105}}";
+			sepNavSelRange = "{565, 0}";
+			sepNavVisRange = "{0, 1666}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* TapBall */ = {
+		activeExec = 0;
+		executables = (
+			063AFCCE12E1FBF300DE0BC5 /* TapBall */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* TapBallViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {627, 555}}";
+			sepNavSelRange = "{463, 101}";
+			sepNavVisRange = "{0, 572}";
+			sepNavWindowFrame = "{{15, 90}, {686, 683}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* TapBallViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {965, 1885}}";
+			sepNavSelRange = "{508, 0}";
+			sepNavVisRange = "{1261, 1920}";
+			sepNavWindowFrame = "{{15, 90}, {686, 683}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 063AFCCE12E1FBF300DE0BC5 /* TapBall */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* TapBall */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* TapBall */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 063AFCE412E1FBF900DE0BC5 /* Code sense */;
+		executables = (
+			063AFCCE12E1FBF300DE0BC5 /* TapBall */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					787,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316848835;
+			PBXWorkspaceStateSaveDate = 316848835;
+		};
+		perUserProjectItems = {
+			063AFD3712E231D500DE0BC5 /* PBXBookmark */ = 063AFD3712E231D500DE0BC5 /* PBXBookmark */;
+			063AFD3912E231D500DE0BC5 /* PlistBookmark */ = 063AFD3912E231D500DE0BC5 /* PlistBookmark */;
+			063AFD3A12E231D500DE0BC5 /* PBXTextBookmark */ = 063AFD3A12E231D500DE0BC5 /* PBXTextBookmark */;
+			06756F1012E2C04E00EAE656 /* PBXTextBookmark */ = 06756F1012E2C04E00EAE656 /* PBXTextBookmark */;
+			06756F1812E2C16E00EAE656 /* PBXTextBookmark */ = 06756F1812E2C16E00EAE656 /* PBXTextBookmark */;
+			06756F1912E2C16E00EAE656 /* PBXTextBookmark */ = 06756F1912E2C16E00EAE656 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 063AFCE312E1FBF900DE0BC5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
